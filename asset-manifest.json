@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.effe28c2.css",
-    "main.js": "/test/static/js/main.062855f6.js",
+    "main.css": "/test/static/css/main.1684ae44.css",
+    "main.js": "/test/static/js/main.0c304e13.js",
+    "static/media/jobdesc.png": "/test/static/media/jobdesc.537c5799492129669b87.png",
     "static/media/research.png": "/test/static/media/research.2152365e8a097a88d640.png",
     "static/media/design.png": "/test/static/media/design.cd794a175dc2027a1979.png",
     "static/media/implement.png": "/test/static/media/implement.dede3b70275cff38ab32.png",
     "index.html": "/test/index.html",
     "static/media/hello.svg": "/test/static/media/hello.84dda7fb813b50d58b85936259a3c76c.svg",
-    "main.effe28c2.css.map": "/test/static/css/main.effe28c2.css.map",
-    "main.062855f6.js.map": "/test/static/js/main.062855f6.js.map"
+    "main.1684ae44.css.map": "/test/static/css/main.1684ae44.css.map",
+    "main.0c304e13.js.map": "/test/static/js/main.0c304e13.js.map"
   },
   "entrypoints": [
-    "static/css/main.effe28c2.css",
-    "static/js/main.062855f6.js"
+    "static/css/main.1684ae44.css",
+    "static/js/main.0c304e13.js"
   ]
 }
